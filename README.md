@@ -42,3 +42,9 @@ triangle 1 - 4 - 1
 **
 *
 # pattern10
+triangle
+   *
+  ***
+ *****
+*******
+# pattern11
