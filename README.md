@@ -1,5 +1,5 @@
 n=4
-# pattern1 4*4 star
+# pattern1 4*4 asterisk
 # pattern2 
 1234
 1234
