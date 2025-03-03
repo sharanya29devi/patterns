@@ -48,3 +48,10 @@ triangle
  *****
 *******
 # pattern11
+*******
+ *****
+  ***
+   *
+# pattern12
+diamond
+# pattern13
